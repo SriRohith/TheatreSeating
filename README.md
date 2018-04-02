@@ -1,4 +1,4 @@
-# Theatre Seating 
+# Theater Seating 
 
 This program parses a theater layout and a list of ticket requests and produces a list of tickets or explanations in the same order as the requests received.   
 
@@ -16,7 +16,7 @@ IDE like Eclipse
 
 ### Installing and Demo
 
-Run as Java Application from main class: TheatreSeating.java
+Run as Java Application from main class: TheaterSeating.java
 
 
 Sample Input's & Output's
