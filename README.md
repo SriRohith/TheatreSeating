@@ -1,6 +1,3 @@
-# TheatreSeating
-Barclays Design problem
-
 # Theatre Seating 
 
 This program parses a theater layout and a list of ticket requests and produces a list of tickets or explanations in the same order as the requests received.   
@@ -24,7 +21,7 @@ Run as Java Application from main class: TheatreSeating.java
 
 Sample Input's & Output's
 
-Provide inputs from console. Inputs were read using scanner class.
+Note: Provide inputs from console. Inputs were read using scanner class.
 
 ```
 Enter number of rows for a theatre layout:
